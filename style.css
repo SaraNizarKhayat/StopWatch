@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(255, 187, 0);
+}
+
+#display,
+h1 {
+    color: rgb(255, 42, 42);
+    text-shadow: 3px 3px 5px rgb(21, 34, 34);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 80px;
+    text-align: center;
+}
+
+button {
+    background-color: rgb(255, 187, 0);
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+    border-color: rgb(255, 42, 42);
+    border-width: 3px;
+    color: rgb(255, 42, 42);
+    box-shadow: 3px 3px 5px rgb(21, 34, 34);
+    padding: 20px 100px;
+    margin: 20px;
+}
+
+.container {
+    width: 100%;
+    text-align: center;
+}
